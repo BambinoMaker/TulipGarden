@@ -1,0 +1,22 @@
+# Node modules folder (huge, recreated with npm install)
+node_modules/
+
+# Production build folder
+build/
+
+# OS or editor files
+.DS_Store
+Thumbs.db
+
+# Environment variables file (if any)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.vscode/
+.idea/
+
